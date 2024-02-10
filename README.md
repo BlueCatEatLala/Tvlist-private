@@ -6,4 +6,4 @@ https://mirror.ghproxy.com/https://raw.github.com/BlueCatEatLala/Tvlist-private/
 
 https://mirror.ghproxy.com/https://raw.github.com/BlueCatEatLala/Tvlist-private/master/m3u/IPV4-CM.m3u
 
-
+Thanks for dalaos!
