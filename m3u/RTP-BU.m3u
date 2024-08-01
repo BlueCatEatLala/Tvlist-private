@@ -40,7 +40,7 @@ http://125.34.185.54:10000/rtp/239.3.1.227:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/ae51f3deb48f8c5494eed3f46d7c3af5e0fe9825d1e9" group-title="北京",BRTV生活
 http://125.34.185.54:10000/rtp/239.3.1.231:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/cf1b9d16fdfaaf51f3de5af1050183eef01f3a29cc7d" group-title="北京",BRTV体育休闲
-http://125.34.185.54:10000/rtp/239.3.1.97:8001
+http://125.34.185.54:10000/rtp/239.3.1.243:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d62a6059252dd42a2834d67e546e4cb5c9ea14ce1292" group-title="北京",BRTV文艺
 http://125.34.185.54:10000/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/ac6eddc451da81cb39dbdf150533c7160924aa189b94" group-title="北京",BRTV新闻
