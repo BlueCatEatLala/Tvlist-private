@@ -47,7 +47,9 @@ http://123.113.237.79:8888/rtp/239.3.1.242:8000
 http://123.113.237.79:8888/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8326cffc1e178a82b901d876a156648da97738124295" group-title="北京",BRTV影视
 http://123.113.237.79:8888/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo=" " group-title="央视",CCTV1
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://123.113.237.79:8888/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://123.113.237.79:8888/rtp/239.3.1.60:8084
@@ -173,6 +175,14 @@ http://123.113.237.79:8888/rtp/239.3.1.51:9252
 http://123.113.237.79:8888/rtp/239.3.1.47:8164
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://123.113.237.79:8888/rtp/239.3.1.155:4120
+#EXTINF:-1 tvg-id="" tvg-name="睛彩竞技" tvg-logo="https://i2.sinaimg.cn/IT/t/2010-03-15/U2148P2T1D3942407F9DT20100315083837.JPG" group-title="晴彩",睛彩竞技
+http://123.113.237.79:8888/rtp/239.3.1.125:8001
+#EXTINF:-1 tvg-id="" tvg-name="睛彩篮球" tvg-logo="https://i2.sinaimg.cn/IT/t/2010-03-15/U2148P2T1D3942407F9DT20100315083837.JPG" group-title="晴彩",睛彩篮球
+http://123.113.237.79:8888/rtp/239.3.1.126:8001
+#EXTINF:-1 tvg-id="" tvg-name="睛彩羽毛球" tvg-logo="https://i2.sinaimg.cn/IT/t/2010-03-15/U2148P2T1D3942407F9DT20100315083837.JPG" group-title="晴彩",睛彩羽毛球
+http://123.113.237.79:8888/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-id="" tvg-name="睛彩广场舞" tvg-logo="https://i2.sinaimg.cn/IT/t/2010-03-15/U2148P2T1D3942407F9DT20100315083837.JPG" group-title="晴彩",睛彩广场舞
+http://123.113.237.79:8888/rtp/239.3.1.128:8001
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台
 http://123.113.237.79:8888/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2台
