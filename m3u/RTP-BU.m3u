@@ -47,8 +47,6 @@ http://125.34.185.54:10000/rtp/239.3.1.242:8000
 http://125.34.185.54:10000/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8326cffc1e178a82b901d876a156648da97738124295" group-title="北京",BRTV影视
 http://125.34.185.54:10000/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://125.34.185.54:10000/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
