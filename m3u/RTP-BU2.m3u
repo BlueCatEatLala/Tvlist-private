@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pix1.tvzhe.com/images/logo/channel/IPTVSSZN/IPTVSSZN.jpg?1" group-title="IPTV",IPTV收视指南
 rtp://239.3.1.193:8012
 #EXTINF:-1 tvg-id="101" tvg-name="IPTV经典电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png" group-title="IPTV",IPTV经典电影
