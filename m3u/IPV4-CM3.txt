@@ -17,6 +17,7 @@ CCTV15,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
 CCTV16,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
 CCTV17,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 CCTV5+,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
+
 卫视_from_睡眼迷离的猫,#genre#
 湖南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
 东方卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8
@@ -102,6 +103,7 @@ CCTV-13,http://live.nctv.top/IQRu0r/bfgd.php?id=067
 CCTV-14,http://live.nctv.top/IQRu0r/bfgd.php?id=132
 CCTV-15,http://live.nctv.top/IQRu0r/bfgd.php?id=133
 CCTV-17,http://live.nctv.top/IQRu0r/bfgd.php?id=204
+
 卫视_from_iptvsyx,#genre#
 湖南卫视,http://live.nctv.top/IQRu0r/bfgd.php?id=086
 北京卫视,http://live.nctv.top/IQRu0r/bfgd.php?id=083
