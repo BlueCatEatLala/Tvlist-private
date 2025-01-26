@@ -1,4 +1,4 @@
-央视_from_睡眼迷离的猫,#genre#
+央视,#genre#
 CCTV1,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
 CCTV2,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
 CCTV3,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
@@ -17,8 +17,7 @@ CCTV15,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
 CCTV16,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
 CCTV17,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 CCTV5+,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
-
-卫视_from_睡眼迷离的猫,#genre#
+卫视,#genre#
 湖南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
 东方卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8
 江苏卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8
@@ -58,7 +57,7 @@ CCTV5+,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-H
 山东教育卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SDETV/G_SDETV.m3u8
 康巴卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_KANGBA/G_KANGBA.m3u8
 安多卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ANDUO/G_ANDUO.m3u8
-地方_from_睡眼迷离的猫,#genre#
+地方,#genre#
 卡酷少儿,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_KAKU/G_KAKU.m3u8
 金鹰卡通,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JINYING/G_JINYING.m3u8
 优漫卡通,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
@@ -84,8 +83,7 @@ CGTN法语,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CGTN-FRANCAIS/G_CGTN-FRA
 CGTN西班牙语,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CGTN-ESPANOL/G_CGTN-ESPANOL.m3u8
 大湾区卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_NANFANG/G_NANFANG.m3u8
 纪实人文(停播),http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
-
-央视_from_iptvsyx,#genre#
+央视,#genre#
 CCTV-1,http://live.nctv.top/IQRu0r/bfgd.php?id=488
 CCTV-2,http://live.nctv.top/IQRu0r/bfgd.php?id=061
 CCTV-3,http://live.nctv.top/IQRu0r/bfgd.php?id=062
@@ -103,8 +101,7 @@ CCTV-13,http://live.nctv.top/IQRu0r/bfgd.php?id=067
 CCTV-14,http://live.nctv.top/IQRu0r/bfgd.php?id=132
 CCTV-15,http://live.nctv.top/IQRu0r/bfgd.php?id=133
 CCTV-17,http://live.nctv.top/IQRu0r/bfgd.php?id=204
-
-卫视_from_iptvsyx,#genre#
+卫视,#genre#
 湖南卫视,http://live.nctv.top/IQRu0r/bfgd.php?id=086
 北京卫视,http://live.nctv.top/IQRu0r/bfgd.php?id=083
 广东卫视,http://live.nctv.top/IQRu0r/bfgd.php?id=092
@@ -142,12 +139,11 @@ CCTV-17,http://live.nctv.top/IQRu0r/bfgd.php?id=204
 西藏卫视,http://live.nctv.top/IQRu0r/bfgd.php?id=121
 农林卫视,http://live.nctv.top/IQRu0r/bfgd.php?id=122
 兵团卫视,http://live.nctv.top/IQRu0r/bfgd.php?id=124
-港台_from_iptvsyx,#genre#
+港台,#genre#
 凤凰卫视中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰卫视资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
-央视_from_iptvsyx_2,#genre#
+央视,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -165,7 +161,7 @@ CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
-卫视_from_iptvsyx_2,#genre#
+卫视,#genre#
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
@@ -191,12 +187,11 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
-港台_from_iptvsyx_2,#genre#
+港台,#genre#
 凤凰卫视中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰卫视资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
-央视综合_from_睡眼迷离的猫,#genre#
+央视综合,#genre#
 CCTV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 CCTV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXKnFU9T505QMpWLcYnx3uQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNbiZgR_ywo1Ht-jnnl-lZ2%2CEND
 CCTV-3,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
@@ -215,9 +210,7 @@ CCTV-14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?Guar
 CCTV-15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFQ8BWVFffGkwLTLNv7CwFQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7I2coCeiP5K0pSIMZqcUB%2CEND
 CCTV-16,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
-
-卫视综合_from_睡眼迷离的猫,#genre#
-
+卫视综合,#genre#
 广西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EpjsBggKPaCw3f-xlBWZWaQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMJYhPE64lykNkIsypBRZqO%2CEND
 广东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOwFRXT0-jLOJsddrbdfkw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPSqjXe5wfGqWHn9iVn3DhQ%2CEND
 深圳卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND
@@ -256,9 +249,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?Guar
 兵团卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND
 延边卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
 康巴卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
-
-数字综合_from_睡眼迷离的猫,#genre#
-
+数字综合,#genre#
 卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226511/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvqDW6DIwhMbw5DgQ-5shSg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOkWiMkxzrYuDDsDz0yj_44%2CEND
 金鹰卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6foULWwssGxn1Rcu94IVjA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOgjgFOoBNEm4igx9gIglYQ%2CEND
 优漫卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226932/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQEOIlrOsNFRf5iToSTnL8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN7KLFo7CgBWKUXMPUn4WSm%2CEND
@@ -297,10 +288,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?Guar
 潮妈辣婆,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_buXEAIzLX9DkyCQHTUDaw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOFXEcWh_gXHVGjnfvNWYT_%2CEND
 怡伴健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjNp5Bk4D1QoMTHkXgT3WLA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPTJHwSVI4a-gmo5bbrSFG8%2CEND
 武搏世界,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226992/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_JDeq9wxwhvmQV8q1RcJXQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOtNmHkl_eETvF1I74cp3-l%2CEND
-
-
-北京综合_from_睡眼迷离的猫,#genre#
-
+北京综合,#genre#
 北京IPTV 4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 北京IPTV 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京IPTV 淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
